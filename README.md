@@ -2,13 +2,13 @@
 CS867-Computer Vision-Assignment 03
 
 
-#Dataset
+# Dataset
 Kaggle Intel-Classification-Images. The dataset is divided into 3 categories i.e. Training set, validation set and test set.
 
-#Trained Model Weights
+# Trained Model Weights
 https://drive.google.com/file/d/19t1lj2dtC2Y5pZPvCPr4HsQcn3pMKWvy/view?usp=sharing
 
-#Training Settings
+# Training Settings
 Simple CNN Model 
 history = model.fit(train_images, train_labels, batch_size=128, epochs=20, validation_split = 0.2)
 
