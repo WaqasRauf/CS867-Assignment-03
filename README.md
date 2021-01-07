@@ -17,3 +17,11 @@ history2 = model2.fit(train_features, train_labels, batch_size=128, epochs=15, v
 
 Ensemble Neural Networks Train Settings
 histories.append(models[i].fit(train_features[train_idx], train_labels[train_idx], batch_size=128, epochs=10, validation_split = 0.1))
+
+# Model Results
+
+Simple CNN Model
+Acc vs loss CNN00.png
+
+VGG16 Imagenet
+Acc vs Loss VGG00.png
