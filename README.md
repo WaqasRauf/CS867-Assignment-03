@@ -26,3 +26,5 @@ Simple CNN Model
 VGG16 Imagenet
 ![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/Acc vs Loss VGG00.png?raw=true)
 
+Confusion Matrix
+![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/CM Matrix00.png?raw=true)
