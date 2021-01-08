@@ -21,7 +21,8 @@ histories.append(models[i].fit(train_features[train_idx], train_labels[train_idx
 # Model Results
 
 Simple CNN Model
-Acc vs loss CNN00.png
+![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/Acc vs loss CNN00.png?raw=true)
 
 VGG16 Imagenet
-Acc vs Loss VGG00.png
+![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/Acc vs Loss VGG00.png?raw=true)
+
