@@ -21,10 +21,13 @@ histories.append(models[i].fit(train_features[train_idx], train_labels[train_idx
 # Model Results
 
 Simple CNN Model
+
 ![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/AccvslossCNN00.png?raw=true)
 
 VGG16 Imagenet
+
 ![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/AccvsLossVGG00.png?raw=true)
 
 Confusion Matrix
+
 ![alt text](https://github.com/WaqasRauf/CS867-Assignment-03/blob/main/Results/CMMatrix00.png?raw=true)
